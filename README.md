@@ -1,2 +1,2 @@
 # first_website
-My first Personal blog.
+My first Personal blog usind Django.
